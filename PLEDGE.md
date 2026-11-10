@@ -1,4 +1,10 @@
-> :note: This document is currently a draft.
+---
+layout: page
+title: Pledge
+permalink: /pledge/
+---
+
+> > :note: This document is currently a draft.
 
 # Ethical Software Pledge
 
