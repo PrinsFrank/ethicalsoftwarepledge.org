@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pledge
-permalink: /pledge/
+permalink: /pledge
 ---
 
 > > :note: This document is currently a draft.
