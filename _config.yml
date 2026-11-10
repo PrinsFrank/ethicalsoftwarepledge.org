@@ -1,0 +1,7 @@
+title: ethicalsoftwarepledge.org
+description: >-
+  EthicalSoftwarePledge.org
+url: "https://ethicalsoftwarepledge.org"
+theme: minima
+plugins:
+  - jekyll-feed
