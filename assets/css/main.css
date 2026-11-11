@@ -63,6 +63,16 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     margin: 0;
+    display: flex;
+    align-items: center;
+
+    a {
+        margin-right: 0.3rem;
+        font-size: 0.5em;
+        line-height: 1;
+        text-decoration: none !important;
+        color: inherit;
+    }
 }
 
 h1 {
