@@ -202,10 +202,17 @@ Signatories will provide a way for users to report misuse of their software.
 
 ## Limitations of this pledge
 
-This pledge is voluntary. Organizations or individuals that have joined this pledge are not certified, audited or 
-endorsed by the maintainers of this pledge.
+This pledge is voluntary. Organizations, projects or individuals that have joined this pledge are not certified, audited
+or endorsed by the maintainers of this pledge.
 
 Joining this pledge means making a public commitment to these principles.
+
+## Appeals and Removals
+
+Signatories can be removed or denied from the public signatory list if they signed in bad faith or are acting against 
+the principles of this pledge. A PR or issue can be opened in the repository that contains the list of signatories, 
+and the original signatory will be tagged to allow them to resolve the issue. If no reasonable resolution can be found, 
+signatory can be removed at the discretion of the maintainer after review.
 
 ## Definitions
 
