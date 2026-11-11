@@ -1,0 +1,4 @@
+- name: prinsfrank/pdfparser
+  url: https://github.com/prinsfrank/pdfparser
+  description: PHP PDF parser
+  date: 2026-11-11
