@@ -102,9 +102,29 @@ and upgrade or switch to a non-vulnerable version in a timely manner or replace 
 
 ### 3A. Inclusive design
 
+Signatories will put in reasonable effort to ensure their software can be used by people with disabilities and 
+differing access needs, including but not limited to those who are blind or visually impaired, colorblind, deaf or hard
+of hearing or have motor or cognitive disabilities.
+
+Signatories will provide an accessible way for people to request accommodations, report accessibility barriers and 
+suggest improvements.
+
 ### 3B. Assistive technology support
 
-### 3C. Device and bandwidth constraints
+Signatories will regularly check that their software works with common assistive technology, like screen readers, 
+captions, voice control, keyboard navigation and alternative input devices.
+
+### 3C. Device constraints
+
+Signatories will not put in unreasonable constraints regarding user's hardware. A device should not be excluded because
+it is their device is older, lower-powered or otherwise limited when reasonable accommodations can be made and the
+device can still can be considered secure.
+
+### 3D. Bandwidth constraints
+
+Signatories should ensure that it's software can be reasonably used even when it's users are experiencing bandwidth
+constraints. Limited access to fast internet or financial constraints should not limit users when a reasonable 
+lower-bandwidth alternative can be provided.
 
 ## 4. Truthfulness
 
