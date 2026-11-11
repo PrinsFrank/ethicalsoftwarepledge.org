@@ -26,13 +26,13 @@ For individual signatories, this pledge applies within the limits of their role,
 
 ### 1A. Collection
 
-Signatories commit to only collecting data that is necessary to perform the functionality the software provides.
+Signatories commit to only collecting personal data necessary to provide features or services requested by, or directly benefiting the people concerned.
 
-A signatory will not collect personal data without a person's explicit consent.
+A signatory will not collect personal data without a person's informed and explicit consent.
 
 ### 1B. Processing
 
-A signatory will make sure that people are aware of the ways their personal data will get processed.
+A signatory will make sure that people are informed of the ways their personal data will get processed.
 
 Signatories will ask people to opt in to data processing for each distinct purpose. Declining optional processing must
 not prevent people from using unrelated features of the software. Purposes may be grouped only when they are closely 
@@ -41,11 +41,10 @@ related.
 ### 1C. Sharing
 
 Signatories commit to not sharing personal data with third parties, except where the affected people are informed in 
-advance and processing is needed to perform an objective of the software that those people agreed to. One exception 
-here is legally required sharing of information.
+advance and processing is needed to perform an objective of the software that those people agreed to. This does not prohibit sharing that is required by law.
 
 A signatory will provide a list of third parties or service providers that process personal data on the signatory's 
-behalf.
+behalf, including the purpose for that sharing and the categories of data involved.
 
 ### 1D. Protection
 
