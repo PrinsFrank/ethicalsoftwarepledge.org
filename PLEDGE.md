@@ -19,6 +19,9 @@ that respect privacy, safety, fairness, truthfulness, accessibility and autonomy
 For organizational signatories, this pledge applies to the organization's software products, policies, procedures, 
 and deployment practices.
 
+For project signatories, this pledge applies to the project's software products, policies, procedures, 
+and deployment practices.
+
 For individual signatories, this pledge applies within the limits of their role, influence, authority and knowledge.
 
 ## 1. Personal Data
