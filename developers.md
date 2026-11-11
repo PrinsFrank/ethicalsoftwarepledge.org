@@ -9,5 +9,5 @@ permalink: /developers
 These developers have signed the Ethical Software Pledge:
 
 {% for pledge in site.data.developers | sort: "date" %}
-- [{{ pledge.name }}]({{ pledge.url }}) - {{ pledge.role }} - {{ pledge.date }}
+- {: #{{ pledge.name | slugify }} } [{{ pledge.name }}]({{ pledge.url }}) - {{ pledge.role }} - {{ pledge.date }}
 {% endfor %}
