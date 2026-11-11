@@ -117,12 +117,12 @@ captions, voice control, keyboard navigation and alternative input devices.
 ### 3C. Device constraints
 
 Signatories will not put in unreasonable constraints regarding user's hardware. A device should not be excluded because
-it is their device is older, lower-powered or otherwise limited when reasonable accommodations can be made and the
-device can still can be considered secure.
+their device is older, lower-powered or otherwise limited when reasonable accommodations can be made and the device 
+can still can be considered secure.
 
 ### 3D. Bandwidth constraints
 
-Signatories should ensure that it's software can be reasonably used even when it's users are experiencing bandwidth
+Signatories should ensure that its software can be reasonably used even when its users are experiencing bandwidth
 constraints. Limited access to fast internet or financial constraints should not limit users when a reasonable 
 lower-bandwidth alternative can be provided.
 
@@ -130,11 +130,25 @@ lower-bandwidth alternative can be provided.
 
 ### 4A. Accuracy
 
+Signatories will make reasonable efforts to ensure their claims are accurate, evidence-based and not misleading.
+
+Signatories will make reasonable efforts to prevent their software from being used to share or produce inaccurate and misleading information.
+
+Signatories will correct inaccuracies when discovered.
+
 ### 4B. Transparency
+
+Signatories will be transparent about limitations of their software, conflicts of interest or other information that could reasonably affect users or the public.
 
 ### 4C. Misrepresentation
 
+Signatories will not misrepresent their identity, qualifications, intentions, products, capabilities or services.
+
 ### 4D. Synthetic or generated content
+
+Signatories will not use or allow synthetic or generated content to represent reality when doing so would mislead or deceive others.
+
+Signatories will label and disclose when content is synthetic or generated.
 
 ## 5. Influence
 
