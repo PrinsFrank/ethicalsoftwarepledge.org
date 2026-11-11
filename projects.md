@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-## Developers
+## Projects
 
 These projects have signed the Ethical Software Pledge:
 
