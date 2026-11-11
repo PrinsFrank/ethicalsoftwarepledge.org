@@ -182,9 +182,20 @@ them.
 
 ### 6A. Non-discrimination
 
+Signatories will ensure that their software doesn't discriminate or allow for discrimination, regardless on what grounds.
+
 ### 6B. Equal access
 
+Signatories will ensure equal access, regardless of characteristics, geography, language, income, disability or device 
+access where reasonable alternatives are possible.
+
 ## 7. Safety
+
+Signatories will not provide software that is not reasonable secure against harming people.
+
+Signatories will ensure its software is not used to harm people.
+
+Signatories will provide a way for users to report misuse of their software.
 
 ## Limitations of this pledge
 
