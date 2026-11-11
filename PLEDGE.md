@@ -25,7 +25,8 @@ For individual signatories, this pledge applies within the limits of their role,
 
 ### 1A. Collection
 
-Signatories commit to only collecting personal data necessary to provide features or services requested by, or directly benefiting the people concerned.
+Signatories commit to only collecting personal data necessary to provide features or services requested by, or 
+directly benefiting the people concerned.
 
 A signatory will not collect personal data without a person's informed and explicit consent.
 
@@ -40,7 +41,8 @@ related.
 ### 1C. Sharing
 
 Signatories commit to not sharing personal data with third parties, except where the affected people are informed in 
-advance and processing is needed to perform an objective of the software that those people agreed to. This does not prohibit sharing that is required by law.
+advance and processing is needed to perform an objective of the software that those people agreed to. 
+This does not prohibit sharing that is required by law.
 
 A signatory will provide a list of third parties or service providers that process personal data on the signatory's 
 behalf, including the purpose for that sharing and the categories of data involved.
@@ -58,8 +60,9 @@ protection in the future.
 Signatories will not store personal data longer than needed to perform the functionality the software provides, except
 when legally required.
 
-A signatory will provide a process for people to request deletion or anonymization of personal data where legally allowed.
-This process should be accessible to the people concerned, and be as easy or easier than providing the data in the first place.
+A signatory will provide a process for people to request deletion or anonymization of personal data where legally 
+allowed. This process should be accessible to the people concerned, and be as easy or easier than providing the data 
+in the first place.
 
 ## 2. Security
 
@@ -132,13 +135,15 @@ lower-bandwidth alternative can be provided.
 
 Signatories will make reasonable efforts to ensure their claims are accurate, evidence-based and not misleading.
 
-Signatories will make reasonable efforts to prevent their software from being used to share or produce inaccurate and misleading information.
+Signatories will make reasonable efforts to prevent their software from being used to share or produce inaccurate and 
+misleading information.
 
 Signatories will correct inaccuracies when discovered.
 
 ### 4B. Transparency
 
-Signatories will be transparent about limitations of their software, conflicts of interest or other information that could reasonably affect users or the public.
+Signatories will be transparent about limitations of their software, conflicts of interest or other information that 
+could reasonably affect users or the public.
 
 ### 4C. Misrepresentation
 
@@ -146,19 +151,32 @@ Signatories will not misrepresent their identity, qualifications, intentions, pr
 
 ### 4D. Synthetic or generated content
 
-Signatories will not use or allow synthetic or generated content to represent reality when doing so would mislead or deceive others.
+Signatories will not use or allow synthetic or generated content to represent reality when doing so would mislead or 
+deceive others.
 
 Signatories will label and disclose when content is synthetic or generated.
 
 ## 5. Influence
 
-### 5A. Consent
+### 5A. Manipulative design
 
-### 5B. Manipulative design
+Signatories will not alter or design their product in ways that intentionally manipulate users into making choices that 
+are against the users own interests. Choices should be presented in a way that allows users to make informed decisions.
 
-### 5C. Addiction and Dependency
+### 5B. Addiction and Dependency
 
-### 5D. Political, behavioral or social influence
+Signatories will not alter or design their software in such a way that it could become addictive to a portion of its 
+users.
+
+Signatories will provide a way for users to report addictive design, and will promptly remediate reasonable concerns in 
+a timely manner.
+
+### 5C. Political, behavioral or social influence
+
+Signatories will not use their software to influence users political views or behavior.
+
+Signatories will not implement social lock in. Users should not be coerced into continued use because leaving would hurt
+them.
 
 ## 6. Fairness
 
@@ -170,7 +188,8 @@ Signatories will label and disclose when content is synthetic or generated.
 
 ## Limitations of this pledge
 
-This pledge is voluntary. Organizations or individuals that have joined this pledge are not certified, audited or endorsed by the maintainers of this pledge.
+This pledge is voluntary. Organizations or individuals that have joined this pledge are not certified, audited or 
+endorsed by the maintainers of this pledge.
 
 Joining this pledge means making a public commitment to these principles.
 
@@ -178,6 +197,7 @@ Joining this pledge means making a public commitment to these principles.
 
 For the purposes of this pledge:
 
-- **Software** means applications, services, models, scripts, infrastructure, firmware or other digital systems that generate one or more outputs based on inputs using digital processes.
+- **Software** means applications, services, models, scripts, infrastructure, firmware or other digital systems that 
+- generate one or more outputs based on inputs using digital processes.
 - **User** means a person that is directly interacting with the Software provided by the signatory
 - **Personal data** means data about a human being. This can be one of the Signatories users, but doesn't have to be.
