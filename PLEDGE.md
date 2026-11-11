@@ -65,13 +65,38 @@ This process should be accessible to the people concerned, and be as easy or eas
 
 ### 2A. Secure design
 
+Signatories will design and configure software to be secure by default. Software must be secure by design, not an 
+afterthought. Throughout design, development, deployment and maintenance security should be a top priority.
+
 ### 2B. Vulnerability management
+
+Signatories will provide a way to responsibly disclose vulnerabilities in their software.
+
+Signatories will prioritise any vulnerability that gets disclosed to them in a timely manner, and resolve them as soon 
+as reasonably possible.
+
+Signatories will communicate with reporters of vulnerabilities promptly and will update them on when the reported
+vulnerability will be fixed.
 
 ### 2C. Incident response
 
+Signatories will identify, contain, investigate and remediate security incidents as soon as reasonably possible.
+
+Signatories will inform users about what happened during an incident, and what they will do to prevent them from 
+happening again in the future.
+
 ### 2D. Abuse prevention
 
+Signatories will take steps to prevent, detect and respond to malicious use of their software, especially when that use 
+might harm people, violate rights or undermine safety.
+
+Signatories will not take disproportionate steps to exercise abuse prevention. The other sections in this pledge should 
+not be violated in an effort to prevent abuse.
+
 ### 2E. Supply chain security
+
+Signatories will monitor their dependencies, infrastructure and other software in use for disclosed vulnerabilities
+and upgrade or switch to a non-vulnerable version in a timely manner or replace or disable the affected component.
 
 ## 3. Accessibility
 
