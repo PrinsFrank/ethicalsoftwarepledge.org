@@ -4,34 +4,64 @@ title: Pledge
 permalink: /pledge
 ---
 
-> > :note: This document is currently a draft.
+> :note: This document is currently a draft.
 
 # Ethical Software Pledge
 
 Software increasingly shapes the lives, rights, opportunities and safety of people around the world.
-People who use software, or who are affected by it, are not always aware of choices being made on their behalf or the consequences those choice may have.
+People who use software, or who are affected by it, are not always aware of choices being made on their behalf or the 
+consequences those choices may have.
 
-The Ethical Software Pledge is a voluntary commitment to create, publish, procure and maintain ethical software in ways that respect privacy, safety, fairness, truthfulness, accessibility and autonomy.
+The Ethical Software Pledge is a voluntary commitment to create, publish, procure and maintain ethical software in ways 
+that respect privacy, safety, fairness, truthfulness, accessibility and autonomy.
 
 ## Scope
 
-For organizational signees, this pledge applies to the organizations software related products, policies, procedures, and deployment practices.
+For organizational signatories, this pledge applies to the organization's software products, policies, procedures, 
+and deployment practices.
 
-For individual signees, this pledge applies within the limits of their role, influence, authority and knowledge.
+For individual signatories, this pledge applies within the limits of their role, influence, authority and knowledge.
 
-## 1. Data
+## 1. Personal Data
 
 ### 1A. Collection
 
+Signatories commit to only collecting data that is necessary to perform the functionality the software provides.
+
+A signatory will not collect personal data without a person's explicit consent.
+
 ### 1B. Processing
 
-### 1C. Storage
+A signatory will make sure that people are aware of the ways their personal data will get processed.
 
-### 1D. Sharing
+Signatories will ask people to opt in to data processing for each distinct purpose. Declining optional processing must
+not prevent people from using unrelated features of the software. Purposes may be grouped only when they are closely 
+related.
 
-### 1E. Protection
+### 1C. Sharing
 
-### 1F. Retention and Deletion
+Signatories commit to not sharing personal data with third parties, except where the affected people are informed in 
+advance and processing is needed to perform an objective of the software that those people agreed to. One exception 
+here is legally required sharing of information.
+
+A signatory will provide a list of third parties or service providers that process personal data on the signatory's 
+behalf.
+
+### 1D. Protection
+
+Signatories will effectively protect personal data with all reasonable security measures.
+
+Signatories commit to informing people when personal data does get compromised. Signatories will inform in a timely 
+manner about the affected information, why that information was stored, and what efforts are implemented to improve data
+protection in the future.
+
+### 1E. Retention and Deletion
+
+Signatories will not store personal data longer than needed to perform the functionality the software provides, except
+when legally required.
+
+A signatory will provide a process for people to request deletion or anonymization of personal data where legally allowed.
+This process should be accessible to the people concerned, and be as easy or easier than providing the data in the first place.
 
 ## 2. Security
 
@@ -92,3 +122,5 @@ Joining this pledge means making a public commitment to these principles.
 For the purposes of this pledge:
 
 **Software** means applications, services, models, scripts, infrastructure, firmware or other digital systems that generate one or more outputs based on inputs using digital processes.
+**User** means a person that is directly interacting with the Software provided by the signatory
+**Personal data** means data about a human being. This can be one of the Signatories users, but doesn't have to be.
