@@ -119,6 +119,6 @@ Joining this pledge means making a public commitment to these principles.
 
 For the purposes of this pledge:
 
-**Software** means applications, services, models, scripts, infrastructure, firmware or other digital systems that generate one or more outputs based on inputs using digital processes.
-**User** means a person that is directly interacting with the Software provided by the signatory
-**Personal data** means data about a human being. This can be one of the Signatories users, but doesn't have to be.
+- **Software** means applications, services, models, scripts, infrastructure, firmware or other digital systems that generate one or more outputs based on inputs using digital processes.
+- **User** means a person that is directly interacting with the Software provided by the signatory
+- **Personal data** means data about a human being. This can be one of the Signatories users, but doesn't have to be.
